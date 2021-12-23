@@ -36,7 +36,7 @@
     font-size: 102px;
     line-height: 96px;
     font-weight: bold;
-    z-index: 56;
+    z-index: 10;
 }
 .header__subtitle {
     width: 388px;
@@ -110,13 +110,10 @@
     line-height: 34px;
 }
 .two-columns__paragraph {
-    
     width: 80%;
-    
     font-size: 24px;
     line-height: 34px;
     font-weight: normal;
-    
 }
 .two-columns__paragraph:nth-of-type(2) {
     margin-top: 30px;
@@ -230,7 +227,7 @@
     font-size: 60px;
     line-height: 69px;
     font-weight: bold;
-    z-index: 56;
+    z-index: 10;
 }
 .section-subtitle_theme_dark {
     color:#ffffff;
@@ -286,7 +283,6 @@
     text-decoration: none;
 }
 .logo_place_footer {
-    
     position: absolute;
     top: 0;
     left: 0;
