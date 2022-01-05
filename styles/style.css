@@ -126,7 +126,7 @@
     flex-direction: column;
 }
 .section-title {
-    margin: 100px auto 20px;
+    margin: 0px auto 20px;
     font-size: 60px;
     line-height: 69px;
     font-weight: bold;  
@@ -139,7 +139,7 @@
 }
 .table {
     width: 1100px;
-    margin:0 auto 100px;
+    margin: 0 auto 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between; 
@@ -299,8 +299,6 @@
 .logo_place_footer {
     display:flex;
     flex-direction: column;
-}
-.footer__logo-image { 
     width: 183px;
     height: 35px;
 }
