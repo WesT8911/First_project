@@ -1,0 +1,7 @@
+.footer__column-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+.footer__column-link:hover {
+    text-decoration: none;
+}
